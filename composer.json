@@ -1,5 +1,5 @@
 {
-    "name": "psr/romalogger",
+    "name": "psr1899/romalogger",
     "description": "My first logger for home task",
     "keywords": ["psr", "RomanenkoLogger", "log"],
     "homepage": "https://github.com/Kot1899",
